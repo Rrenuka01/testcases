@@ -11,20 +11,20 @@ Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
 
 ## Testable features:
 1. User Registration and Login
-  a. Sign up
-  b. Login
-  c. Forgot Password
-2. Workspace
-3. Courses
-  a. Playwright
-  b. Selenium-java
-  c. Cucumber Selenium-java
-  d. All courses
-4. Grooming
-  a. Test practice
-  b. Interview Q&A
-5. Product
-6. Home Icon
+  - Sign up
+  - Login
+  - Forgot Password
+3. Workspace
+4. Courses
+  - Playwright
+  - Selenium-java
+  - Cucumber Selenium-java
+  - All courses
+5. Grooming
+  - Test practice
+  - Interview Q&A
+6. Product
+7. Home Icon
 
 ## Testing Approach:	
 - Testing Types
